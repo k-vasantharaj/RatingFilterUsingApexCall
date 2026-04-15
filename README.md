@@ -81,4 +81,12 @@ UI should not depend on raw backend data → always transform
 
 
 📸 UI Highlights
-<img width="299" height="244" alt="6" src="https://github.com/user-attachments/assets/4a73313d-fc33-4058-ba27-50f5dc344cde" />
+
+
+<img width="605" height="239" alt="1" src="https://github.com/user-attachments/assets/fcc2f01c-ae42-409e-9e29-1ed7f57bb768" />
+<img width="299" height="221" alt="2" src="https://github.com/user-attachments/assets/8130d62e-f9ce-4a46-a116-be796a993ef6" />
+<img width="298" height="227" alt="3" src="https://github.com/user-attachments/assets/9693ea5c-c076-416f-a6e9-7f795afe0eb4" />
+<img width="299" height="224" alt="4" src="https://github.com/user-attachments/assets/941e6c15-257d-4795-979d-29aa4d074946" />
+<img width="304" height="242" alt="5" src="https://github.com/user-attachments/assets/421d42c8-7149-4350-ab70-6dec2b7e22ed" />
+<img width="299" height="244" alt="6" src="https://github.com/user-attachments/assets/81f2ba0d-d25b-4ec6-b8d1-d9d46ef0b34b" />
+
